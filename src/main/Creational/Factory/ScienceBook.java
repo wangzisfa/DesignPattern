@@ -15,6 +15,6 @@ public class ScienceBook implements Book{
 
 	@Override
 	public String getName() {
-		return "Science Book";
+		return "Science User";
 	}
 }
